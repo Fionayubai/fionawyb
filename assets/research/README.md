@@ -1,0 +1,1 @@
+Add four selected page screenshots from “Fiona Wu-Whispers before Vanishing.pdf” here. They will appear as a four-image visual gallery above the structured research outline. The source PDF was not included with the current assets, so the slots remain placeholders.
